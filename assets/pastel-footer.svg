@@ -1,0 +1,10 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pastel light blue footer divider</title>
+  <desc id="desc">A soft pastel light blue wave divider with small stars.</desc>
+  <rect width="1200" height="120" rx="28" fill="#F8FCFF"/>
+  <path d="M0 62C120 31 238 35 354 66C486 101 600 103 738 68C896 28 1010 31 1200 72V120H0V62Z" fill="#E3F5FF"/>
+  <path d="M0 85C132 62 244 66 370 90C510 117 630 116 780 90C928 64 1034 65 1200 92V120H0V85Z" fill="#CFEFFF"/>
+  <path d="M175 26L181 38L195 40L185 50L187 64L175 57L163 64L165 50L155 40L169 38L175 26Z" fill="#FFF1B8"/>
+  <path d="M1010 25L1016 37L1030 39L1020 49L1022 63L1010 56L998 63L1000 49L990 39L1004 37L1010 25Z" fill="#F8CFE8"/>
+  <text x="600" y="50" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#6C8FA6">Designed in pastel light blue</text>
+</svg>

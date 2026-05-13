@@ -1,0 +1,20 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Poko pastel light blue profile banner</title>
+  <desc id="desc">A cute pastel light blue GitHub profile banner with soft clouds, stars, and rounded panels.</desc>
+  <rect width="1200" height="360" rx="34" fill="#F8FCFF"/>
+  <path d="M0 245C118 206 216 214 322 247C454 288 548 294 686 256C835 214 951 210 1200 264V360H0V245Z" fill="#E4F6FF"/>
+  <path d="M0 282C132 248 247 254 372 286C514 323 622 323 771 288C927 251 1042 252 1200 292V360H0V282Z" fill="#D4F0FF"/>
+  <rect x="86" y="58" width="1028" height="218" rx="28" fill="#FFFFFF" stroke="#BDE8FF" stroke-width="3"/>
+  <rect x="113" y="86" width="974" height="162" rx="24" fill="#F1FAFF"/>
+  <circle cx="168" cy="128" r="13" fill="#A8DDF8"/>
+  <circle cx="207" cy="128" r="13" fill="#F8CFE8"/>
+  <circle cx="246" cy="128" r="13" fill="#FFF1B8"/>
+  <path d="M894 109C914 81 955 88 965 122C992 116 1014 136 1014 163C1014 191 991 210 963 210H852C819 210 795 188 795 160C795 130 821 109 852 115C862 95 881 96 894 109Z" fill="#DDF4FF" stroke="#A9DDF6" stroke-width="3"/>
+  <path d="M303 95C318 75 348 80 356 105C376 101 392 116 392 136C392 157 375 171 354 171H272C248 171 230 155 230 134C230 112 249 96 272 101C280 86 294 87 303 95Z" fill="#FFFFFF" stroke="#CBEFFF" stroke-width="3"/>
+  <path d="M1003 71L1013 91L1035 94L1019 109L1023 131L1003 120L983 131L987 109L971 94L993 91L1003 71Z" fill="#F8CFE8"/>
+  <path d="M165 220L173 236L191 239L178 251L181 269L165 260L149 269L152 251L139 239L157 236L165 220Z" fill="#FFF1B8"/>
+  <path d="M1055 226L1063 242L1081 245L1068 257L1071 275L1055 266L1039 275L1042 257L1029 245L1047 242L1055 226Z" fill="#BDE8FF"/>
+  <text x="600" y="154" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" fill="#4F8FB9">Poko</text>
+  <text x="600" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#6C8FA6">System Engineer with a DevOps mindset</text>
+  <text x="600" y="234" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#7A99AA">soft-blue interfaces | tidy systems | useful little tools</text>
+</svg>

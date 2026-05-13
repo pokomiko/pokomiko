@@ -1,0 +1,28 @@
+<svg width="1200" height="96" viewBox="0 0 1200 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated pastel sparkle divider</title>
+  <desc id="desc">A cute pastel light blue divider with drifting dots and twinkling stars.</desc>
+  <rect width="1200" height="96" rx="26" fill="#F8FCFF"/>
+  <path d="M82 49C184 25 290 27 392 48C520 75 638 74 766 49C900 22 1012 26 1118 50" stroke="#CFEFFF" stroke-width="14" stroke-linecap="round">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M82 49C184 25 290 27 392 48C520 75 638 74 766 49C900 22 1012 26 1118 50;M82 55C188 33 296 21 402 43C524 68 642 80 774 55C902 30 1016 21 1118 44;M82 49C184 25 290 27 392 48C520 75 638 74 766 49C900 22 1012 26 1118 50"/>
+  </path>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;28 0;0 0" dur="8s" repeatCount="indefinite"/>
+    <circle cx="202" cy="48" r="10" fill="#BDE8FF"/>
+    <circle cx="460" cy="42" r="8" fill="#F8CFE8"/>
+    <circle cx="730" cy="55" r="9" fill="#FFF1B8"/>
+    <circle cx="980" cy="45" r="10" fill="#BDE8FF"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 326 48;12 326 48;0 326 48" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+    <path d="M326 28L332 42L347 48L332 54L326 68L320 54L305 48L320 42L326 28Z" fill="#FFF1B8"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 870 48;-12 870 48;0 870 48" dur="3.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="3.4s" repeatCount="indefinite"/>
+    <path d="M870 28L876 42L891 48L876 54L870 68L864 54L849 48L864 42L870 28Z" fill="#F8CFE8"/>
+  </g>
+  <text x="600" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#6C8FA6">little systems, soft motion, tidy ideas
+    <animate attributeName="opacity" values="0.72;1;0.72" dur="4.2s" repeatCount="indefinite"/>
+  </text>
+</svg>

@@ -16,6 +16,10 @@
   <sub>System Engineer mindset | DevOps practice | PokoOS-style interfaces</sub>
 </p>
 
+<p align="center">
+  <img src="./assets/pastel-sparkles.svg" alt="Animated pastel sparkle divider" width="100%" />
+</p>
+
 ---
 
 <table>
@@ -54,6 +58,10 @@ mood        gentle, useful, and a little playful</code></pre>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-F7F1D7?style=for-the-badge&logo=linux&logoColor=746B36" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-D6EDFF?style=for-the-badge&logo=docker&logoColor=2675A8" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-E1EEFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+</p>
+
+<p align="center">
+  <img src="./assets/pastel-sparkles.svg" alt="Animated pastel sparkle divider" width="100%" />
 </p>
 
 ---

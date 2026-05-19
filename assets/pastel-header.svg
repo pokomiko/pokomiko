@@ -9,6 +9,11 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <clipPath id="pokoTypeClip" clipPathUnits="userSpaceOnUse">
+      <rect x="504" y="88" width="0" height="92" rx="10">
+        <animate attributeName="width" values="0;0;192;192;192;0" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.08;0.52;0.86;0.99;1" keySplines="0.42 0 0.58 1;0.22 0.61 0.36 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 1 1"/>
+      </rect>
+    </clipPath>
   </defs>
   <rect width="1200" height="360" rx="34" fill="#F8FCFF"/>
   <path d="M0 245C118 206 216 214 322 247C454 288 548 294 686 256C835 214 951 210 1200 264V360H0V245Z" fill="#E4F6FF">
@@ -52,10 +57,16 @@
     <path d="M1055 226L1063 242L1081 245L1068 257L1071 275L1055 266L1039 275L1042 257L1029 245L1047 242L1055 226Z" fill="#BDE8FF"/>
   </g>
   <g filter="url(#softGlow)">
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 -6;0 -3;0 0" dur="5.8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
-    <text x="600" y="154" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" fill="#86D4F5">Poko
-      <animate attributeName="fill" values="#86D4F5;#BDEFFF;#9FE2FA;#BDEFFF;#86D4F5" dur="5.8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <text x="600" y="154" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" fill="#DFF8FF" opacity="0.34">Poko</text>
+    <text x="600" y="154" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" fill="#9DE8FF" clip-path="url(#pokoTypeClip)">Poko
+      <animate attributeName="fill" values="#9DE8FF;#C9F5FF;#AEEFFF;#C9F5FF;#9DE8FF" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.28;0.52;0.78;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
     </text>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;192 0;192 0;192 0;0 0" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.08;0.52;0.86;0.99;1" keySplines="0.42 0 0.58 1;0.22 0.61 0.36 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 1 1"/>
+      <rect x="502" y="102" width="5" height="64" rx="3" fill="#AEEFFF">
+        <animate attributeName="opacity" values="0;1;0.45;1;0.45;1;0;0" dur="6s" repeatCount="indefinite" keyTimes="0;0.08;0.2;0.34;0.48;0.82;0.9;1"/>
+      </rect>
+    </g>
   </g>
   <text x="600" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#6C8FA6">System Engineer with a DevOps mindset</text>
   <text x="600" y="234" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#7A99AA">soft-blue interfaces | tidy systems | useful little tools
